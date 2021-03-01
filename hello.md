@@ -2,4 +2,4 @@
 |:---:|:---:|
 | Min Qiao | minqiao |
 |:---:|:---:|
-| Juun Shin | junshin163 |
+| Jun Shin | junshin163 |
